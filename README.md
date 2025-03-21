@@ -10,7 +10,7 @@ curl -X GET "http://localhost:8080/display?device_id=1&start=1742515530&end=1742
 ```
 
 
-Server makes a call to sensor every 3 seconds 
+Server makes a call to sensor every 2 seconds 
 Sensor returns timestamp, device id, temp, device type . Server logs shown here - 
 
 ```
